@@ -1,4 +1,4 @@
-Authors: Chris Burns, Shannon Patel and Amber Roberts(Carnegie Observatories)
+Authors: Chris Burns, Shannon Patel and Amber (Carnegie Observatories)
 
 Just a safe place to put our ipython notebook tutorials for the summer bootcamp held at the Carnegie Observatories.
 
